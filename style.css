@@ -1,0 +1,111 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+/* navbar */
+.nav-bg{
+    background-color: #1A187A;
+}
+.shop-hero{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px; /* 92.308% */
+}
+
+/* slideer */
+
+.slide-bg{
+    background-image: url("./resources/background.jpeg");
+    background-size: cover;
+    height: 100vh;
+}
+
+
+/* feature */
+
+.macbook{
+    background-color: #EDEDED;
+}
+.macbook-laptop{
+    padding-right: -200px;
+}
+.airpods{
+    background-color: #b3c8dc;
+}
+/* category section */
+.category-section{
+    background-color: #FAFAFA;
+}
+.category{
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+}
+/* product page */
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+/* sale section */
+
+.sale{
+    background-color: #958AD4;
+    
+}
+.eleven{
+    color: #25177B;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px; /* 100% */
+    letter-spacing: -0.72px;
+    }
+
+
+.sale-span{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+    letter-spacing: -0.72px;
+}
+
+.sales-para{
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+}
+
+.image-19{
+    margin-left: -120px;
+}
+
+.tablet-image{
+    margin-right: -400px;
+}
+/* footer */
+.footer-background{
+    background-color: #0E071B;
+}
+.services a{
+    text-decoration: none;
+}
+.associate a{
+    text-decoration: none;
+}
